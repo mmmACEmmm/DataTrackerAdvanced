@@ -1,4 +1,4 @@
-# ** Data Tracker Advanced**
+# Data Tracker Advanced
 Photon Data Tracker Advanced is a mod designed for use with Photon Unity Networking (PUN) in Gorilla Tag, aimed at tracking and logging player data and cosmetics in multiplayer environments.
 
 # **Features**
